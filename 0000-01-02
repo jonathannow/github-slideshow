@@ -2,4 +2,9 @@
 layout: slide
 title: This is our second slide
 ---------
-My code
+#include <studio.h>
+
+int main(void)
+{
+    printf("hello, world!");
+}
