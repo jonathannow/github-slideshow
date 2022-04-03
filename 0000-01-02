@@ -1,0 +1,10 @@
+---------
+layout: slide
+title: This is our second slide
+---------
+#include <studio.h>
+
+int main(void)
+{
+    printf("hello, world!");
+}
